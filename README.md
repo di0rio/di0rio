@@ -4,7 +4,7 @@
 
 ![di0rio GitHub stats](https://github-readme-stats.vercel.app/api?username=di0rio&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&layout=compact&langs_icons=true&theme=dracula")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight")
 
 
 ## Tecnologias utilizadas no dia a dia
