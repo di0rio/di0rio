@@ -7,7 +7,7 @@
 
 ![di0rio GitHub stats](https://github-readme-stats.vercel.app/api?username=di0rio&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&size_weight=0.5&count_weight=0.5_icons=true&theme=dracula)
 
 </div>
 
