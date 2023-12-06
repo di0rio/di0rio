@@ -2,10 +2,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/di0riocaua/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-di%C3%B3rio-245013296/)
 
+<table>
+
 ![di0rio GitHub stats](https://github-readme-stats.vercel.app/api?username=di0rio&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&layout=compact&langs_count=6&theme=tokyonight")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&layout=compact&langs_count=6&theme=dracula)
 
+</table>
 
 ## Tecnologias utilizadas no dia a dia
 
