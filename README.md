@@ -21,7 +21,7 @@
 
 ![WEEK](https://github-readme-streak-stats.herokuapp.com?user=di0rio&theme=dracula&layout=weekly)""
 
-![Top Langs](https://github-readme-stats-git-main-di0rio.vercel.app/api/top-langs/?username=di0rio&show_icons=true&theme=dracula&layout=compact)
+![](https://github-readme-stats-git-main-di0rio.vercel.app/api/top-langs/?username=di0rio&show_icons=true&theme=dracula&layout=compact)
 
  </div>
 
