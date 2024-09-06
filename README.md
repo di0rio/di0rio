@@ -14,7 +14,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&layout=compact&langs_count=6&theme=dracula)
 
-
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=di0rio&theme=dracula&layout=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-di0rio.vercel.app/api/top-langs/?username=di0rio&show_icons=true&theme=dracula&layout=compact" />
+ </div>
 
 ## Tecnologias utilizadas no dia a dia
 
