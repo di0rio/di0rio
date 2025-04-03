@@ -2,13 +2,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/di0riocaua/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-di%C3%B3rio-245013296/)
 
-<!-- <a href="https://github.com/di0rio">
+ <a href="https://github.com/di0rio">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=di0rio&show_icons=true&theme=dracula">
 </a>
 
 <a href="https://github.com/di0rio">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&layout=compact&theme=dracula">
-</a> -->
+</a> 
 
 
 
