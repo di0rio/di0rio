@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=di0rio&layout=compact&langs_count=6&theme=dracula)
 
 
-<!--![WEEK](https://github-readme-streak-stats.herokuapp.com?user=di0rio&theme=dracula&layout=weekly)-->
+![WEEK](https://github-readme-streak-stats.herokuapp.com?user=di0rio&theme=dracula&layout=weekly)
 
 ![](https://github-readme-stats-git-main-di0rio.vercel.app/api/top-langs/?username=di0rio&show_icons=true&theme=dracula&layout=compact)
 
